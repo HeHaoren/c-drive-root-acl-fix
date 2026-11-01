@@ -1,0 +1,10 @@
+# Local artifacts - must never be published
+.workbuddy/
+Root_ACL_backup_*.txt
+C_root_ACL_backup_*.txt
+run_log*.txt
+
+# OS junk
+Thumbs.db
+.DS_Store
+*.tmp
